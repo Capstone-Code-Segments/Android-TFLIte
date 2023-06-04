@@ -31,7 +31,7 @@ Android Studio Version yang digunakan: Electric Eel
 
 Saran saya, copy dan paste library "openCVLibrary3413" dan folder "jniLibs" ke project kalian. Untuk masing-masing path-nya, kalian perlu memperhatikannya pada project ini.
 
-# Versi pada dependencies
+# Versi pada dependencies (build.gradle (Module :app)
 1. CameraX dan CameraX View
 ```
     // CameraX
