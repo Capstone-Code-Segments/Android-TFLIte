@@ -26,7 +26,9 @@ plugins {
 ```
 
 Pada project structure:
+
 Android Gradle Plugin Version: 7.4.0
+
 Gradle Version: 7.5
 
 Android Studio Version yang digunakan: Electric Eel
