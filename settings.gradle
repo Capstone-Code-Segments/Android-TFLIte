@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "TFL"
 include ':app'
 
-include ':opencv'
+include ':openCVLibrary3413'
