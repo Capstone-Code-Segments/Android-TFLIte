@@ -1,5 +1,5 @@
 # Android-TFLite
-***Anda dapat menggunakan project ini sebagai referensi. Anda dapat melakukan eksplorasi juga.***
+***Anda dapat menggunakan segmen program pada project ini sebagai sumber/referensi. Anda dapat melakukan eksplorasi juga.***
 
 Link untuk mengunduh aplikasi: https://drive.google.com/file/d/1LZUFoqEh_f30L58hi32QLznBcQl9XfD4/view?usp=sharing
 
