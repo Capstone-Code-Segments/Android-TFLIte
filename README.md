@@ -12,6 +12,10 @@ Project saat ini masih berbasis real time detection. Kalian dapat memodifikasi d
 
 Hati-hati, untuk kamera dan deteksi OpenCV agak lemot.
 
+**Sumber GitHub:**
+1. https://github.com/pramod722445/Object_Detection_App (OpenCV)
+2. https://github.com/owahltinez/camerax-tflite (CameraX & TFLite)
+
 # Versi Gradle dan Kotlin (build.gradle (project)) pada Aplikasi ini
 ```
 plugins {
