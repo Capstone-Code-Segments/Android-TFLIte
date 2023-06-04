@@ -28,7 +28,10 @@
         android:theme="@style/Theme.TFL"
         tools:targetApi="31">
         <activity
-            android:name=".CameraActivity"
+            android:name=".CameraCameraXRealTimeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CameraOpenCVRealTimeActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
